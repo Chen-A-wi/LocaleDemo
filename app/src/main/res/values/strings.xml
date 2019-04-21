@@ -1,3 +1,5 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">LocaleDemo</string>
+    <string name="hello_str" tools:ignore="MissingTranslation">Hello world</string>
+    <string name="change_lang_str" tools:ignore="MissingTranslation"> Change Lang</string>
 </resources>

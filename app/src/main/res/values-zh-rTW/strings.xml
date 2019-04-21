@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleDemo</string>
+    <string name="hello_str">你好世界</string>
+    <string name="change_lang_str">更改語言</string>
+</resources>
